@@ -17,6 +17,19 @@ $(document).ready(function(){
 	}
 
 	setHeight();
+
+    function toggleLogo() {
+        if (isHome()) {
+            $("#logo").hide();
+        } else {
+            $("#logo").show();
+        }
+    }
+
+    function isHome() {
+        return $("#top-nav .current").find("a").attr("href") == "#home";
+    }
+
 	/*$(".slogan h1").slabText({
 	        "viewportBreakpoint":300
 	});*/
@@ -38,8 +51,9 @@ $(document).ready(function(){
         },
         end: function() {
             //I get fired when the animation is ending
+            toggleLogo();
         },
-        scrollChange: function() {
+        scrollChange: function($section) {
             //I get fired when you enter a section and I pass the list item of the section
         }
     });
