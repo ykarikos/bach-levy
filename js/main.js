@@ -51,6 +51,7 @@ $(document).ready(function(){
         },
         scrollChange: function($section) {
             //I get fired when you enter a section and I pass the list item of the section
+            toggleLogo();
         }
     });
 
