@@ -498,8 +498,6 @@ margin: 0px;
 	}
 	#logo{
 		width: 100%;
-/*		font-size: 14px;
-		margin-top: 12px; */
 		text-align: center;
 	}
 	div#top-nav{
@@ -541,6 +539,7 @@ margin: 0px;
 @media (max-width: 480px) { 
 	#logo{
 		font-size: 14px;
+		margin-top: 18px;
 	} 
 
 }
