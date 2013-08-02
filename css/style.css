@@ -287,7 +287,7 @@ body.color-6 #footer {
 	border: none;
 	margin-top: 14px;
 	margin-bottom: 0px;
-	margin-left: 8px;
+	margin-left: 26px;
 	float: left;
 }
 #logo a{
@@ -507,6 +507,8 @@ margin: 0px;
 	#logo{
 		width: 100%;
 		text-align: center;
+		margin-left: 0;
+		margin-right: 0;
 	}
 	div#top-nav{
 		margin-top: 0px;
