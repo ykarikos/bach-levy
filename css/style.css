@@ -491,6 +491,15 @@ margin: 0px;
 }
 
 /*Media Queries*/
+@media (min-width: 768px) and (max-width: 979px) {
+	.list-inline {
+		font-size: 11px;
+	}
+	.list-inline > li {
+		padding-left: 0;
+	}
+}
+
 @media (max-width: 767px) {
 	#drop-nav{
 		display: inline;
@@ -511,9 +520,6 @@ margin: 0px;
 		left: 0;
 	}
 	div#top-nav ul{
-
-		
-		
 		float: none;
 		display: block;
 		
@@ -533,6 +539,9 @@ margin: 0px;
 		top: 50%;
 		margin-top: -12px;
 
+	}
+	.list-inline {
+		font-size: 13px;
 	}
 }
 @media (max-width: 480px) { 
