@@ -29,10 +29,6 @@ $(document).ready(function(){
     function isHome() {
         return $("#top-nav .current").find("a").attr("href") == "#home";
     }
-
-	/*$(".slogan h1").slabText({
-	        "viewportBreakpoint":300
-	});*/
 	
 	$(window).bind('resize',function() {
 		setHeight();
