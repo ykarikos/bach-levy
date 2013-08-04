@@ -11,6 +11,7 @@ $.fn.vAlign = function() {
 })(jQuery);
 $(document).ready(function(){
 	var win_h = $(window).height();
+
 	function setHeight(){
 		$('.home > .hero').css({height:win_h});
 		$(".vcenter").vAlign();
@@ -21,9 +22,14 @@ $(document).ready(function(){
     function toggleLogo() {
         if (isHome()) {
             $("#logo").hide();
-        } else {
+        } else if(isWide()) {
             $("#logo").show();
         }
+    }
+
+    function isWide() {
+        var win_w = $(window).width();
+        return win_w > 767;
     }
 
     function isHome() {

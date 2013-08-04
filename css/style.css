@@ -279,9 +279,6 @@ body.color-6 #footer {
 	position: fixed;
 	height: 50px;
 }
-#nav-button{
-	display: none;
-}
 #logo {
 	display: block;
 	border: none;
@@ -500,55 +497,12 @@ margin: 0px;
 }
 
 @media (max-width: 767px) {
-	#drop-nav{
-		display: inline;
-	}
-	#logo{
-		width: 100%;
-		text-align: center;
-		margin-left: 0;
-		margin-right: 0;
-	}
-	div#top-nav{
-		margin-top: 0px;
+	#header {
 		display: none;
-	background: #fff;
-	position: absolute;
-	top:50px;
-		z-index: 99999;
-		border-right: 1px solid #D6D6D6;
-		border-bottom: 1px solid #D6D6D6;
-		left: 0;
-	}
-	div#top-nav ul{
-		float: none;
-		display: block;
-		
-	}
-	div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
-		padding: 10px;
-		
-		display: block;
-		margin-bottom: 0px;
-		margin-left: 0px;
-	}
-	#nav-button{
-		display: inline-block;
-		position: absolute;
-		left: 24px;
-		font-size: 24px;
-		top: 50%;
-		margin-top: -12px;
-
-	}
-	.list-inline {
-		font-size: 13px;
 	}
 }
 @media (max-width: 480px) { 
-	#logo{
-		font-size: 14px;
-		margin-top: 18px;
-	} 
-
+	#header {
+		display: none;
+	}
 }
