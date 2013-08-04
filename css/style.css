@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text:400,700);
 
 /* Common Styles ------------------------------------------ */
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
@@ -32,7 +32,7 @@ h6 {
 	font-weight: normal;
 	line-height: 1.3;
 	color: inherit;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Crimson Text', sans-serif;
 	text-transform: uppercase;
 }
 
@@ -43,30 +43,30 @@ h2 {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 44px;
 }
 
 h2 {
-	font-size: 32px;
+	font-size: 36px;
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 28px;
 	letter-spacing: 2px;
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 22px;
 	letter-spacing: 1px;
 }
 
 h5 {
-	font-size: 14px;
+	font-size: 18px;
 	letter-spacing: 1px;
 }
 
 h6 {
-	font-size: 12px;
+	font-size: 16px;
 }
 
 p {
@@ -285,7 +285,7 @@ body.color-6 #footer {
 #logo {
 	display: block;
 	border: none;
-	margin-top: 14px;
+	margin-top: 9px;
 	margin-bottom: 0px;
 	margin-left: 26px;
 	float: left;
@@ -297,11 +297,10 @@ body.color-6 #footer {
 }
 
 div#top-nav{
-	margin-top: 13px;
+	margin-top: 14px;
 }
 div#top-nav ul {
-
-	font-family: 'Montserrat',  sans-serif;
+	font-family: 'Crimson Text',  sans-serif;
 	float: right;
 	margin-bottom: 0px;
 }
@@ -317,7 +316,7 @@ div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	color: #333;
 	font-weight: 700;
 	text-transform: uppercase;
-	font-size: 12px;
+	font-size: 14px;
 	border: none;
 }
 div#top-nav #fluid-nav li a:hover {
@@ -333,7 +332,6 @@ div#top-nav #fixed-nav li a:hover {
 }
 div#top-nav #fixed-nav li.current a {
 	color: #333;
-	padding-bottom: 5px;
 }
 /* Slogan & Banners ------------------------------------------ */
 .slogan{
@@ -344,6 +342,7 @@ div#top-nav #fixed-nav li.current a {
 .slogan h1{
 	text-shadow: 2px 2px 2px #333333;
 	color: #ffffff;
+	font-weight: bold;
 }
 .hero{
 	border-bottom: 1px solid #e1e1e1;
