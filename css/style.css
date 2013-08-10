@@ -480,18 +480,43 @@ margin: 0px;
 .list-inline {
 	list-style: none;
 }
+
 .list-inline > li {
 	display: inline-block;
 	padding-right: 5px;
 	padding-left: 5px;
 }
 
+.bullet-inline > li {
+	display: inline;	
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.bullet-inline > li:first-child {
+	padding-left: 0;
+}
+
+.bullet-inline > li:before {
+	content: "✹";
+	padding-right: 5px;
+}
+
+.bullet-inline > li:first-child:before {
+	content: " ";
+	padding: 0;
+}
+
+.instrument-names {
+	font-size: 12px;
+}
+
 /*Media Queries*/
 @media (min-width: 768px) and (max-width: 979px) {
-	.list-inline {
+	.artist-names {
 		font-size: 11px;
 	}
-	.list-inline > li {
+	.artist-names > li {
 		padding-left: 0;
 	}
 }
@@ -504,5 +529,16 @@ margin: 0px;
 @media (max-width: 480px) { 
 	#header {
 		display: none;
+	}
+	.instrument-names > li {
+		display: list-item;
+		list-style: none;
+	}
+	.instrument-names > li:first-child {
+		padding-left: 5px;
+	}
+	.instrument-names > li:first-child:before {
+		content: "✹";
+		padding-right: 5px;
 	}
 }
