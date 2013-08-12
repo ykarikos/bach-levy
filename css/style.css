@@ -282,9 +282,9 @@ body.color-6 #footer {
 #logo {
 	display: block;
 	border: none;
-	margin-top: 12px;
+	margin-top: 15px;
 	margin-bottom: 0px;
-	margin-left: 26px;
+	margin-left: 22px;
 	float: left;
 }
 #logo a{
@@ -303,7 +303,7 @@ div#top-nav ul {
 }
 div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 14px;
 }
 
 div#top-nav #fluid-nav li:first-child, div#top-nav #fixed-nav li:first-child  {

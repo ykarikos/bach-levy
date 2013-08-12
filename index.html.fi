@@ -47,11 +47,11 @@ color-6 yellow
 
 			<div class="row">
 
-				<h5 id="logo" style="display: none;"><a href="index.html">J. S. Bach: Sonatas &amp; Chorales</a></h5>
+				<h6 id="logo" style="display: none;"><a href="index.html">J. S. Bach: Sonatas &amp; Chorales</a></h6>
 
 				<div id="top-nav" class="">
 					<ul id="fixed-nav">
-						<li class="current"><a href="#home">Alku</a></li>
+						<li class="current"><a href="#home">Kansi</a></li>
 						<li><a href="#tracks">Kappaleet</a></li>
 						<li><a href="#about">Tietoja</a></li>
 						<li><a href="#get-it">Osta</a></li>
@@ -579,7 +579,9 @@ color-6 yellow
 				</div>
 				<div class="row">
 					<div class="span12">
-						<p>How? Directly from artists (20 €). <a href="http://www.fuga.fi">Fuga.fi</a> (20 €). Available later on Spotify.</p>
+						<p>
+							Osta levy suoraan muusikoilta tai  <a href="http://www.fuga.fi">Fugan verkkokaupasta</a> hintaan 20 €.
+						</p>
 					</div>
 				</div>
 			</div>

@@ -42,7 +42,7 @@ color-6 yellow
 
 			<div class="row">
 
-				<h5 id="logo" style="display: none;"><a href="index.html">J. S. Bach: Sonatas &amp; Chorales</a></h5>
+				<h6 id="logo" style="display: none;"><a href="index.html">J. S. Bach: Sonatas &amp; Chorales</a></h6>
 
 				<div id="top-nav" class="">
 					<ul id="fixed-nav">
@@ -569,7 +569,8 @@ color-6 yellow
 				</div>
 				<div class="row">
 					<div class="span12">
-						<p>How? Directly from artists (20 €). <a href="http://www.fuga.fi">Fuga.fi</a> (20 €). Available later on Spotify.</p>
+						<p>
+							Buy the record directly from artists or from <a href="http://www.fuga.fi">Fuga web shop</a>. Price 20 €.</p>
 					</div>
 				</div>
 			</div>
