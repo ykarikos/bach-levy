@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+
+	<title>J.S. Bach: Sonatas &amp; Chorales</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="HandheldFriendly" content="true">
+
+	<meta property="og:image" content="http://bach-levy.vanhassavaraparempi.fi/images/cover-small.jpg">
+    <meta property="og:url" content="http://bach-levy.vanhassavaraparempi.fi/">
+    <meta property="og:title" content="J.S. Bach: Sonatas &amp; Chorales">
+    <meta property="og:description" content="Complete trio sonatas and Schübler chorales of J. S. Bach by Mika Suihkonen, Johannes Vesterinen, Niall Chorell, Tuuli Lindeberg, Jussi Lehtipuu, Maija Lampela, Teppo Lampela and Eero Palviainen">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- Import CSS -->
+	<link rel="stylesheet" href="css/main.css">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/jquery.scrollto.min.js"></script>
+	<script src="js/jquery.nav.js"></script>
+	<script src="js/main.js"></script>
+</head>
+<!--
+TODO:
+   - track previews
+   - Get it: how?
+-->
+<!-- To change color change the class "color-1" to "color-2, color-3 ... color-6" 
+color-1 brown
+color-2 light blue
+color-3 violet
+color-4 dark blue
+color-5 orange
+color-6 yellow
+-->
+<body class="home color-1">
+	<div id="header">
+		<div class="container">
+
+			<div class="row">
+
+				<h5 id="logo" style="display: none;"><a href="index.html">J. S. Bach: Sonatas &amp; Chorales</a></h5>
+
+				<div id="top-nav" class="">
+					<ul id="fixed-nav">
+						<li class="current"><a href="#home">Home</a></li>
+						<li><a href="#tracks">Tracks</a></li>
+						<li><a href="#about">About</a></li>
+						<li><a href="#get-it">Get it!</a></li>
+						<li><a href="#artists">Artists</a></li>
+						<li><a class="external" href="index.html.fi">Suomeksi</a></li>
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</div><!-- End Header -->
+	<!-- Big Full screen Banner -->
+	<div class="hero bg-fixed bg-cembalo bg-color" id="home">
+
+		<div class="slogan">
+			<div class="vcenter container">
+
+				<div class="row">
+					<div class="span12">
+						<h1>Johann Sebastian Bach</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span12">
+						<h1>Sonatas &amp; Chorales</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+	<!-- End Full screen banner  -->
+	<!-- Services Section -->
+	<!-- class section-alt is to give a different color please edit css/style.css to change the color -->
+	<div class="section section-alt" id="tracks">
+		<div class="container">
+			<div class="content">
+				<!--
+				<div class="row" >
+					<div class="title">
+						<h2>Tracks</h2>
+						<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
+					</div>
+				</div>
+			-->
+				<div class="row">
+					<div class="span6">
+						<h4>CD1</h4>
+						<table class="table">
+							<tbody>
+								<tr>
+									<th>1</th>
+									<td>
+										<span class="track-title">
+										Jesu, meine Freude
+										</span>
+										BWV 227<br>
+										(TL, TLa, NC, JL, ML, EP)
+									</td>
+									<td>3.13</td>
+								</tr>
+								<tr>
+									<th>2</th>
+									<td>
+										<span class="track-title">
+										Wachet auf, ruft uns die Stimme
+										</span>
+										(BWV 140) BWV 645<br>
+										(NC, MS, ML, EP, JV)
+									</td>
+									<td>4.03</td>
+								</tr>
+								<tr class="track-head">
+									<th></th>
+									<td>
+										<span class="track-title">
+										Trio sonata 1 D-major
+										</span>
+										BWV 525 (MS, JV)
+									</td>
+									<td></td>
+								</tr>
+								<tr class="track-group">
+									<th>3</th>
+									<td>-</td>
+									<td>2.51</td>
+								</tr>
+								<tr class="track-group">
+									<th>4</th>
+									<td>Adagio</td>
+									<td>7.12</td>
+								</tr>
+								<tr class="track-group track-last">
+									<th>5</th>
+									<td>Allegro</td>
+									<td>3.35</td>
+								</tr>
+								<tr>
+									<th>6</th>
+									<td>
+										<span class="track-title">
+										Nun komm, der Heiden Heiland
+										</span>
+										BWV 659<br>
+										(MS, JV, JL)
+									</td>
+									<td>5.05</td>
+								</tr>
+								<tr>
+									<th>7</th>
+									<td>
+										<span class="track-title">
+											Wer nur den lieben Gott lässt walten
+										</span>
+										(BWV 93) BWV 647<br>
+										(tutti)
+									</td>
+									<td>2.47</td>
+								</tr>
+								<tr class="track-head">
+									<th></th>
+									<td>
+										<span class="track-title">
+										Trio sonata 2 C-minor
+										</span>
+										BWV 526 (MS, JV)
+									</td>
+									<td></td>
+								</tr>
+								<tr class="track-group">
+									<th>8</th>
+									<td>Vivace</td>
+									<td>3.54</td>
+								</tr>
+								<tr class="track-group">
+									<th>9</th>
+									<td>Largo</td>
+									<td>2.55</td>
+								</tr>
+								<tr class="track-group track-last">
+									<th>10</th>
+									<td>Allegro</td>
+									<td>4.15</td>
+								</tr>
+								<tr>
+									<th>11</th>
+									<td>
+										<span class="track-title">
+											Aria
+										</span>
+										(Anna Magdalena Bach) BWV 988<br>
+										(MS, JV)
+									</td>
+									<td>4.02</td>
+								</tr>
+								<tr>
+									<th>12</th>
+									<td>
+										<span class="track-title">
+											Ach bleib bei uns, Herr Jesu Christ
+										</span>
+										(BWV 6) BWV 649<br>
+										(TL, MS, ML, EP, JV)
+									</td>
+									<td>4.27</td>
+								</tr>
+								<tr class="track-head">
+									<th></th>
+									<td>
+										<span class="track-title">
+										Trio sonata 5 B-major
+										</span>
+										BWV 529 (MS, JV)
+									</td>
+									<td></td>
+								</tr>
+								<tr class="track-group">
+									<th>13</th>
+									<td>Allegro</td>
+									<td>5.05</td>
+								</tr>
+								<tr class="track-group">
+									<th>14</th>
+									<td>Largo</td>
+									<td>5.10</td>
+								</tr>
+								<tr class="track-group track-last">
+									<th>15</th>
+									<td>Allegro</td>
+									<td>3.37</td>
+								</tr>
+								<tr>
+									<th>16</th>
+									<td>
+										<span class="track-title">
+											Was Gott tut, das ist wohlgetan
+										</span>
+										BWV 98<br>
+										(tutti)
+									</td>
+									<td>4.15</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<div class="span6">
+						<h4>CD2</h4>
+						<table class="table">
+							<tbody>
+								<tr>
+									<th>1</th>
+									<td>
+										<span class="track-title">
+											Allein Gott in der Höh sei Ehr'
+										</span>
+										BWV 711 (tutti)<br>
+										arr. by JV
+									</td>
+									<td>3.09</td>
+								</tr>
+								<tr>
+									<th>2</th>
+									<td>
+										<span class="track-title">
+											Wo soll ich fliehen hin
+										</span>
+										(Lost cantata) BWV 646<br>
+										(JL, MS, ML, EP, JV)
+									</td>
+									<td>2.15</td>
+								</tr>
+								<tr class="track-head">
+									<th></th>
+									<td>
+										<span class="track-title">
+										Trio sonata 4 E-minor
+										</span>
+										BWV 528 (MS, JV)
+									</td>
+									<td></td>
+								</tr>
+								<tr class="track-group">
+									<th>3</th>
+									<td>Adagio-Vivace</td>
+									<td>3.00</td>
+								</tr>
+								<tr class="track-group">
+									<th>4</th>
+									<td>Andante</td>
+									<td>4.28</td>
+								</tr>
+								<tr class="track-group track-last">
+									<th>5</th>
+									<td>Un poco Allegro</td>
+									<td>2.43</td>
+								</tr>
+								<tr>
+									<th>6</th>
+									<td>
+										<span class="track-title">
+											Wer nur den lieben Gott lässt walten
+										</span>
+										(Anna Magdalena Bach)<br>
+										(MS, JV)
+									</td>
+									<td>1.52</td>
+								</tr>
+								<tr>
+									<th>7</th>
+									<td>
+										<span class="track-title">
+											Meine Seele erhebt den Herren
+										</span>
+										(BWV 10) BWV 648<br>
+										(TL, TLa, NC, MS, ML, EP, JV)
+									</td>
+									<td>2.47</td>
+								</tr>
+								<tr class="track-head">
+									<th></th>
+									<td>
+										<span class="track-title">
+										Trio sonata 3 D-minor
+										</span>
+										BWV 527 (MS, JV)
+									</td>
+									<td></td>
+								</tr>
+								<tr class="track-group">
+									<th>8</th>
+									<td>Andante</td>
+									<td>5.06</td>
+								</tr>
+								<tr class="track-group">
+									<th>9</th>
+									<td>Adagio e Dolce</td>
+									<td>5.02</td>
+								</tr>
+								<tr class="track-group track-last">
+									<th>10</th>
+									<td>Vivace</td>
+									<td>4.06</td>
+								</tr>
+								<tr>
+									<th>11</th>
+									<td>
+										<span class="track-title">
+											Liebster Jesu, wir sind hier
+										</span>
+										BWV 731<br>
+										(MS, JV)
+									</td>
+									<td>2.27</td>
+								</tr>
+								<tr>
+									<th>12</th>
+									<td>
+										<span class="track-title">
+											Kommst du nun, Jesu, von Himmel herunter
+										</span>
+										(BWV 137) BWV 650<br>
+										(TLa, MS, ML, EP, JV)
+									</td>
+									<td>3.40</td>
+								</tr>
+								<tr class="track-head">
+									<th></th>
+									<td>
+										<span class="track-title">
+										Trio sonata 6 G-major
+										</span>
+										BWV 530 (MS, JV)
+									</td>
+									<td></td>
+								</tr>
+								<tr class="track-group">
+									<th>13</th>
+									<td>Vivace</td>
+									<td>4.22</td>
+								</tr>
+								<tr class="track-group">
+									<th>14</th>
+									<td>Lento</td>
+									<td>7.47</td>
+								</tr>
+								<tr class="track-group track-last">
+									<th>15</th>
+									<td>Allegro</td>
+									<td>3.38</td>
+								</tr>
+								<tr>
+									<th>16</th>
+									<td>
+										<span class="track-title">
+											Jesu bleibet meine Freude
+										</span>
+										BWV 147<br>
+										(tutti)
+									</td>
+									<td>2.48</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span12">
+						<ul class="bullet-inline instrument-names">
+							<li>
+								Tuuli Lindeberg, soprano (TL)
+							</li>
+							<li>
+								Teppo Lampela, countertenor (TLa)
+							</li>
+							<li>
+								Niall Chorell, tenor (NC)
+							</li>
+							<li>
+								Jussi Lehtipuu, bass (JL)
+							</li>
+							<li>
+								Mika Suihkonen, gamba Guy Derat 1989 (MS)
+							</li>
+							<li>
+								Maija Lampela, gamba Wang Zhi Ming 2003 (ML)
+							</li>
+							<li>
+								Eero Palviainen, archlute Hendrik Hasenfuss 1994 (EP)
+							</li>
+							<li>
+								Johannes Vesterinen, harpsichord Jukka Ollikka 2007 &amp; positive organ Kangasalan urkutehdas 1978 (JV). Temperament: 1/6 comma meantone.
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Tracks Section -->
+	<!-- About the record section -->
+	<div class="section" id="about">
+		<div class="container">
+			<div class="content">
+				<div class="row">
+					<div class="span12">
+						<div class="title">
+							<h2>About the record</h2>
+							<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
+
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span6">
+<p>
+	With rapid shifts in musical ideals during Johann Sebastian Bach’s lifetime (1685–1750), the viol or viola da gamba was falling into oblivion. In this light, it is remarkable that Bach’s three surviving Sonatas for viol (BWV 1027–1029) are not typical 17th-century suites for solo viol and continuo but instead represent an 18th-century genre to whose development Bach himself contributed. In this sonata genre, the keyboard is not merely an accompanying instrument but an equal solo partner to the melody instrument. In fact, Bach’s viol sonatas are trio sonatas where the keyboard player is responsible for both the second solo part and the accompaniment.
+</p>
+
+<p>
+	Bach took the concept a step further in his organ Sonatas (BWV 525–530): the organist plays both solo parts on different manuals and the accompanying bass on the pedals. Though incorporating features of the Italian concerto, structurally these works are trio sonatas. In our own time, they have been successfully arranged for a variety of chamber ensembles. The viol is particularly suited to the extensive range they demand, hence the idea of arranging the six organ Sonatas for viol for this recording.
+</p>
+<p>
+	Such arranging and re-orchestrating was not unusual in the Baroque era. Bach himself was fond of reusing his earlier compositions in suitable contexts. He might adapt a Vivaldi violin concerto for organ, or convert a solo violin piece of his own into an obbligato organ part in a cantata chorus, to mention just a few examples. We do not know to which extent the organ Sonatas might be arrangements themselves, as a remarkable portion of Bach’s music remains lost to us. We do know that the first movement of the E minor Sonata is based on the opening of the second part of the Sinfonia of Cantata no. 76 and that the slow movement of the D minor Sonata was used later in the Triple Concerto BWV 1044.
+</p>
+					</div>
+					<div class="span6">
+<p>
+	Such reworking is often, with justification, seen as driven by necessity: a busy composer-craftsman recycling his earlier music under the stresses of multiple duties and time constraints. However, if we look at Bach’s surviving output as a whole, we realise that arranging and re-arranging was standard practice for him. He was obviously fond of revisiting musical materials in different forms, returning in some cases decades later to revise an early work or to set it in a completely new context. In some cases, he expended considerable time and effort on the re-working.
+</p>
+<p>
+	The organ Sonatas were brought together late in Bach’s life, when he returned to his earlier works for instance by organising some of his instrumental works in collections of Renaissance wind instruments in Sonus Borealis, an early music instrument and vocal ensemble which he founded in 1999 and continues to conduct. The ensemble released its first disc in August 2008.
+</p>
+<p><em>Jaakko Saarinen</em></p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span12">
+						<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span3">
+	<h5>
+		Recording location
+	</h5>
+	<p>
+		The Church of the Three Crosses,<br>
+		Imatra 13.–18.10.2011
+	</p>
+					</div>
+					<div class="span3">
+	<h5>
+		Recording, editing, mastering
+	</h5>
+	<p>
+		Mikko Murtoniemi
+	</p>
+					</div>
+					<div class="span3">
+	<h5>
+		Session Producer
+	</h5>
+	<p>
+		Mikko Murtoniemi	
+	</p>
+					</div>
+					<div class="span3">
+	<h5>
+		Photography
+	</h5>
+	<p>
+		Eeva Hakalisto/Kosken kuvaamo		
+	</p>	
+					</div>
+				</div>
+				<div class="row">
+					<div class="span3">
+	<h5>
+		Graphic design
+	</h5>
+	<p>
+		Mika Koivusalo
+	</p>	
+					</div>
+					<div class="span3">
+	<h5>
+		Executive producer
+	</h5>
+	<p>
+		Mika Suihkonen		
+	</p>	
+					</div>
+					<div class="span3">
+	<h5>
+		Special thanks
+	</h5>
+	<p>
+		Evangelical Lutheran Parish of Imatra, Kari Haili, YLE, ESEK		
+	</p>	
+					</div>
+				</div>
+			</div>
+		</div> 
+
+	</div>
+	<!-- End About -->
+	<!-- Get it Section -->
+	<div class="section section-alt" id="get-it">
+		<div class="container">
+			<div class="content">
+				<div class="row">
+					<div class="span12">
+						<div class="title">
+							<h2>Get it!</h2>
+							<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span12">
+						<p>How? Directly from artists (20 €). <a href="http://www.fuga.fi">Fuga.fi</a> (20 €). Available later on Spotify.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> 
+	<!-- End Get it -->
+	<!-- Artists Section -->
+	<div class="section" id="artists" >
+		<div class="container">
+			<div class="content">
+				<div class="row">
+					<div class="span12">
+						<div class="title">
+							<h2>Artists</h2>
+							<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span12 text-center">
+						<p>
+							<img src="images/group.jpg" alt="The Artists">
+						</p>
+						<ul class="list-inline artist-names">
+							<li>Niall&nbsp;Chorell</li>
+							<li>Tuuli&nbsp;Lindeberg</li>
+							<li>Jussi&nbsp;Lehtipuu</li>
+							<li>Maija&nbsp;Lampela</li>
+							<li>Teppo&nbsp;Lampela</li>
+							<li>Eero&nbsp;Palviainen</li>
+							<li>Johannes&nbsp;Vesterinen</li>
+							<li>Mika&nbsp;Suihkonen</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div> 
+
+	</div>
+	<!-- End Artists Section -->
+	<!--
+	<div id="footer">
+		&copy; 2013 mRova Solutions. Designed with lots of love at <a id="attribution" href="http://www.mrova.com">mRova</a>.
+	</div>
+-->
+</body>
+</html>

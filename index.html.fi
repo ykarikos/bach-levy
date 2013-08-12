@@ -25,9 +25,13 @@
 </head>
 <!--
 TODO:
-   - track lists
    - track previews
    - Get it: how?
+
+   - taiteilijat/muusikot?
+   - Viritys: 1/6 komman keskisävel.
+Complete trio sonatas and Schübler chorales of J. S. Bach by Mika Suihkonen, Johannes Vesterinen, Niall Chorell, Tuuli Lindeberg, Jussi Lehtipuu, Maija Lampela, Teppo Lampela and Eero Palviainen
+
 -->
 <!-- To change color change the class "color-1" to "color-2, color-3 ... color-6" 
 color-1 brown
@@ -47,11 +51,12 @@ color-6 yellow
 
 				<div id="top-nav" class="">
 					<ul id="fixed-nav">
-						<li class="current"><a href="#home">Home</a></li>
-						<li><a href="#tracks">Tracks</a></li>
-						<li><a href="#about">About</a></li>
-						<li><a href="#get-it">Get it!</a></li>
-						<li><a href="#artists">Artists</a></li>
+						<li class="current"><a href="#home">Alku</a></li>
+						<li><a href="#tracks">Kappaleet</a></li>
+						<li><a href="#about">Tietoja</a></li>
+						<li><a href="#get-it">Osta</a></li>
+						<li><a href="#artists">Muusikot</a></li>
+						<li><a class="external" href="index.html.en">In English</a></li>
 					</ul>
 				</div>
 
@@ -418,16 +423,16 @@ color-6 yellow
 					<div class="span12">
 						<ul class="bullet-inline instrument-names">
 							<li>
-								Tuuli Lindeberg, soprano (TL)
+								Tuuli Lindeberg, sopraano (TL)
 							</li>
 							<li>
-								Teppo Lampela, countertenor (TLa)
+								Teppo Lampela, kontratenori (TLa)
 							</li>
 							<li>
-								Niall Chorell, tenor (NC)
+								Niall Chorell, tenori (NC)
 							</li>
 							<li>
-								Jussi Lehtipuu, bass (JL)
+								Jussi Lehtipuu, basso (JL)
 							</li>
 							<li>
 								Mika Suihkonen, gamba Guy Derat 1989 (MS)
@@ -436,10 +441,10 @@ color-6 yellow
 								Maija Lampela, gamba Wang Zhi Ming 2003 (ML)
 							</li>
 							<li>
-								Eero Palviainen, archlute Hendrik Hasenfuss 1994 (EP)
+								Eero Palviainen, arkkiluuttu Hendrik Hasenfuss 1994 (EP)
 							</li>
 							<li>
-								Johannes Vesterinen, harpsichord Jukka Ollikka 2007 &amp; positive organ Kangasalan urkutehdas 1978 (JV). Temperament: 1/6 comma meantone.
+								Johannes Vesterinen, cembalo Jukka Ollikka 2007 &amp; urkupositiivi Kangasalan urkutehdas 1978 (JV). Viritys: 1/6 komman keskisävel.
 							</li>
 						</ul>
 					</div>
@@ -455,7 +460,7 @@ color-6 yellow
 				<div class="row">
 					<div class="span12">
 						<div class="title">
-							<h2>About the record</h2>
+							<h2>Tietoja levystä</h2>
 							<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
 
 						</div>
@@ -464,22 +469,27 @@ color-6 yellow
 				<div class="row">
 					<div class="span6">
 <p>
-	With rapid shifts in musical ideals during Johann Sebastian Bach’s lifetime (1685–1750), the viol or viola da gamba was falling into oblivion. In this light, it is remarkable that Bach’s three surviving Sonatas for viol (BWV 1027–1029) are not typical 17th-century suites for solo viol and continuo but instead represent an 18th-century genre to whose development Bach himself contributed. In this sonata genre, the keyboard is not merely an accompanying instrument but an equal solo partner to the melody instrument. In fact, Bach’s viol sonatas are trio sonatas where the keyboard player is responsible for both the second solo part and the accompaniment.
-</p>
-
-<p>
-	Bach took the concept a step further in his organ Sonatas (BWV 525–530): the organist plays both solo parts on different manuals and the accompanying bass on the pedals. Though incorporating features of the Italian concerto, structurally these works are trio sonatas. In our own time, they have been successfully arranged for a variety of chamber ensembles. The viol is particularly suited to the extensive range they demand, hence the idea of arranging the six organ Sonatas for viol for this recording.
+	Johann Sebastian Bachin (1685–1750) aikana viola da gamba oli musiikillisten ihanteiden muuttuessa jäämässä nopeasti pois käytöstä. Tästä näkökulmasta on huomattavaa, etteivät Bachin gamballe ja cembalolle säveltämät kolme sonaattia (BWV 1027–1029) ole tyypillisiä 1600-luvun sarjoja gamballe ja basso continuolle vaan edustavat uudempaa perinnettä, jota Bach suuresti kehitti, ja joka on jatkunut hiljalleen sävellystyylien mukana muuntuen tavallaan nykyaikaan asti. Tämäntyyppisissä sonaateissa kosketinsoitin ei ainoastaan säestä melodiasoitinta, vaan on sen kanssa myös tasa-arvoisessa soolosoittimen asemassa. Gambasonaatit ovat itse asiassa triosonaatteja, joissa kosketinsoittaja vastaa sekä toisesta sooloäänestä että säestävästä basso continuosta.
 </p>
 <p>
-	Such arranging and re-orchestrating was not unusual in the Baroque era. Bach himself was fond of reusing his earlier compositions in suitable contexts. He might adapt a Vivaldi violin concerto for organ, or convert a solo violin piece of his own into an obbligato organ part in a cantata chorus, to mention just a few examples. We do not know to which extent the organ Sonatas might be arrangements themselves, as a remarkable portion of Bach’s music remains lost to us. We do know that the first movement of the E minor Sonata is based on the opening of the second part of the Sinfonia of Cantata no. 76 and that the slow movement of the D minor Sonata was used later in the Triple Concerto BWV 1044.
+	Urkusonaateissaan (BWV 525–530) Bach vei saman idean askelta pidemmälle: niissä urkuri soittaa molemmat sooloäänet eri sormioilta ja säestävän basson jalkiolta. Rakenteellisesti ne ovat edelleen triosonaatteja, ja niitä on viime vuosikymmeninä sovitettu monille erilaisille kamarimusiikkikokoonpanoille. Viola da gamba sopii niihin erityisen hyvin jo äänialansa puolesta, ja tämän levyn kuusi uutta gambasonaattia syntyivät niistä hyvin pienellä muokkaustyöllä.
+</p>
+<p>
+	Moinen sovittaminen ja uudelleensoitintaminen ei ollut barokin aikana lainkaan epätavallista. Erityisesti Bachilla itsellään oli tapana käyttää hyväksi katsomaansa musiikkia uudelleen sopivissa yhteyksissä. Hän saattoi esimerkiksi muokata Vivaldin viulukonsertosta urkukonserton tai omasta sooloviulusävellyksestään obligatoäänen kantaatin alkukuoroon. Emme tiedä missä määrin urkutriosonaatit itsessäänkin ovat sovituksia, sillä merkittävä osa Bachin sävellyksistä on yhä kadoksissa. E-molli-sonaatin ensimmäinen osa perustuu kantaatin no. 76 toisen osan alkusinfoniaan. D-molli-sonaatin hidasta osaa Bach taas käytti myöhemmin konsertossa huilulle, viululle ja cembalolle (BWV 1044).
+</p>
+<p>
+	Moisessa työtavassa on helppo nähdä, niin kuin siinä usein nähdäänkin, monien velvoitteiden työllistämä kanttori Bach kierrättämässä aiemmin sävellettyä musiikkiaan kiireen keskellä. Kun Bachin musiikillista tuotantoa tarkastelee koko laajuudessaan, sovittamisessa voi kuitenkin selvästi nähdä myös Bachille ominaisen taiteellisen toimintatavan: hän työsti mielellään samoja aiheita useissa eri muodoissa ja saattoi vuosikymmenten jälkeen palata muokkaamaan nuoruudenteostaan samassa tai täysin uudessa yhteydessä, toisinaan suurtakin vaivaa nähden.
 </p>
 					</div>
 					<div class="span6">
 <p>
-	Such reworking is often, with justification, seen as driven by necessity: a busy composer-craftsman recycling his earlier music under the stresses of multiple duties and time constraints. However, if we look at Bach’s surviving output as a whole, we realise that arranging and re-arranging was standard practice for him. He was obviously fond of revisiting musical materials in different forms, returning in some cases decades later to revise an early work or to set it in a completely new context. In some cases, he expended considerable time and effort on the re-working.
+	Triosonaatit on koottu yhteen Bachin elämän loppupuolella, jolloin hän palasi vanhojen teostensa pariin ja keräsi mm. soitinsävellyksiään kuuden sarjoiksi, kenties julkaisua ajatellen. Perimätiedon mukaan sonaatit oli alkujaan tarkoitettu Bachin perheen vanhimman pojan Wilhelm Friedemannin urkuopintoja varten. Niitä on saatettu käyttää myös ehtoollismusiikkina muualla Saksassa noudatetun käytännön mukaisesti.
 </p>
 <p>
-	The organ Sonatas were brought together late in Bach’s life, when he returned to his earlier works for instance by organising some of his instrumental works in collections of Renaissance wind instruments in Sonus Borealis, an early music instrument and vocal ensemble which he founded in 1999 and continues to conduct. The ensemble released its first disc in August 2008.
+	Bach oli huomattavasti aikalaisiaan kiinnostuneempi virsien käytöstä sävellysten pohjana. Niillä on merkittävä osa hänen passioissaan ja viikoittaisiin jumalanpalveluksiin säveltämissään kantaateissa, joita on säilynyt lähes kaksisataa. Myös valtaosa Bachin urkusävellyksistä on virsisävelmiin ja -teksteihin pohjautuvia niin sanottuja urkukoraaleja. Useimmiten ne ovat lyhyehköjä alkusoittoja, mutta laajimmat niistä ovat niin pitkiä, että niitä voi epäillä käytetyn varhaisemman käytännön mukaisesti kokonaisten messunosien sijalla. Bach työskenteli nuoruudessaan säveltämiensä urkukoraalien parissa vielä myöhään 1740-luvulla. Vuosikymmenen lopussa painetut niin sanotut Schübler-koraalit uruille ovat kuitenkin kaikki sovituksia kantaattien osista (jos oletamme, että Wo soll ich fliehen hin perustuu johonkin kadonneista kantaateista).
+</p>
+<p>
+	Tällä levyllä kaikki kuusi Schübler-koraalia sekä eräitä muita Bachin urku- ja kantaattikoraaleja on edelleen sovitettu erilaisille gamban, urkujen ja lauluäänten yhdistelmille niin, että gamban soitettavaksi jää joko sävellyksen pohjana olevan virsimelodia tai sitä kommentoiva itsenäinen vastaääni. Tämä on hivenen spekulatiivisempaa kuin triosonaattien uudelleensoitintaminen, mutta mallina on silti voitu käyttää Bachin omaa sovitustyötä. Koraalien sijoittelu sonaattien lomaan tuo korvalle ja mielelle tervetullutta vaihtelua. Virsiperusta tuo nämä muutoin vähemmän tunnetut Bachin sävellykset lähelle suomalaista hengellistä ja musiikillista kulttuuria, sillä samoja virsiä on laulettu myös Suomessa vuosisatojen ajan. Bachin aikalaisille ne olivat läpeensä tuttu väline hahmottaa jokapäiväistä elämää. Nykyajan kuulijalle ne voivat olla vaikeampia tunnistaa varsinkin niissä tapauksissa, joissa virsisävelmä kulkee pohjoissaksalaisen urkuperinteen mukaisesti ilmaisuvoimaisten korukuvioiden pirstomina pitkinä sävelinä.
 </p>
 <p><em>Jaakko Saarinen</em></p>
 					</div>
@@ -492,16 +502,16 @@ color-6 yellow
 				<div class="row">
 					<div class="span3">
 	<h5>
-		Recording location
+		Äänityspaikka
 	</h5>
 	<p>
-		The Church of the Three Crosses,<br>
+		Kolmen Ristin kirkko,<br>
 		Imatra 13.–18.10.2011
 	</p>
 					</div>
 					<div class="span3">
 	<h5>
-		Recording, editing, mastering
+		Äänitys, koostaminen, masterointi
 	</h5>
 	<p>
 		Mikko Murtoniemi
@@ -509,7 +519,7 @@ color-6 yellow
 					</div>
 					<div class="span3">
 	<h5>
-		Session Producer
+		Tuottaja
 	</h5>
 	<p>
 		Mikko Murtoniemi	
@@ -517,7 +527,7 @@ color-6 yellow
 					</div>
 					<div class="span3">
 	<h5>
-		Photography
+		Valokuvat
 	</h5>
 	<p>
 		Eeva Hakalisto/Kosken kuvaamo		
@@ -527,7 +537,7 @@ color-6 yellow
 				<div class="row">
 					<div class="span3">
 	<h5>
-		Graphic design
+		Ulkoasu
 	</h5>
 	<p>
 		Mika Koivusalo
@@ -535,7 +545,7 @@ color-6 yellow
 					</div>
 					<div class="span3">
 	<h5>
-		Executive producer
+		Vastaava tuottaja
 	</h5>
 	<p>
 		Mika Suihkonen		
@@ -543,10 +553,10 @@ color-6 yellow
 					</div>
 					<div class="span3">
 	<h5>
-		Special thanks
+		Kiitokset
 	</h5>
 	<p>
-		Evangelical Lutheran Parish of Imatra, Kari Haili, YLE, ESEK		
+		Imatran seurakunta, Kari Haili, YLE, ESEK		
 	</p>	
 					</div>
 				</div>
@@ -562,7 +572,7 @@ color-6 yellow
 				<div class="row">
 					<div class="span12">
 						<div class="title">
-							<h2>Get it!</h2>
+							<h2>Osta levy</h2>
 							<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
 						</div>
 					</div>
@@ -583,7 +593,7 @@ color-6 yellow
 				<div class="row">
 					<div class="span12">
 						<div class="title">
-							<h2>Artists</h2>
+							<h2>Muusikot</h2>
 							<div class="hr hr-small hr-center"><span class="hr-inner"></span></div>
 						</div>
 					</div>
