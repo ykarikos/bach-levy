@@ -11,7 +11,7 @@
 	<meta property="og:image" content="http://bach-levy.vanhassavaraparempi.fi/images/cover-small.jpg">
     <meta property="og:url" content="http://bach-levy.vanhassavaraparempi.fi/">
     <meta property="og:title" content="J.S. Bach: Sonatas &amp; Chorales">
-    <meta property="og:description" content="Complete trio sonatas and Schübler chorales of J. S. Bach by Mika Suihkonen, Johannes Vesterinen, Niall Chorell, Tuuli Lindeberg, Jussi Lehtipuu, Maija Lampela, Teppo Lampela and Eero Palviainen">
+    <meta property="og:description" content="J. S. Bachin urkutriosonaatit gamballe ja cembalolle sovitettuna sekä Schübler-koraalit esittäjinä Mika Suihkonen, Johannes Vesterinen, Niall Chorell, Tuuli Lindeberg, Jussi Lehtipuu, Maija Lampela, Teppo Lampela ja Eero Palviainen">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -27,11 +27,6 @@
 TODO:
    - track previews
    - Get it: how?
-
-   - taiteilijat/muusikot?
-   - Viritys: 1/6 komman keskisävel.
-Complete trio sonatas and Schübler chorales of J. S. Bach by Mika Suihkonen, Johannes Vesterinen, Niall Chorell, Tuuli Lindeberg, Jussi Lehtipuu, Maija Lampela, Teppo Lampela and Eero Palviainen
-
 -->
 <!-- To change color change the class "color-1" to "color-2, color-3 ... color-6" 
 color-1 brown
@@ -444,7 +439,7 @@ color-6 yellow
 								Eero Palviainen, arkkiluuttu Hendrik Hasenfuss 1994 (EP)
 							</li>
 							<li>
-								Johannes Vesterinen, cembalo Jukka Ollikka 2007 &amp; urkupositiivi Kangasalan urkutehdas 1978 (JV). Viritys: 1/6 komman keskisävel.
+								Johannes Vesterinen, cembalo Jukka Ollikka 2007 &amp; urkupositiivi Kangasalan urkutehdas 1978 (JV). Viritysjärjestelmä: keskisävelviritys, 1/6 komma.
 							</li>
 						</ul>
 					</div>
