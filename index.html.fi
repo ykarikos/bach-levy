@@ -44,14 +44,14 @@ color-6 yellow
 
 				<h6 id="logo" style="display: none;"><a href="index.html">J. S. Bach: Sonatas &amp; Chorales</a></h6>
 
-				<div id="top-nav" class="">
+				<div id="top-nav">
 					<ul id="fixed-nav">
 						<li class="current"><a href="#home">Kansi</a></li>
 						<li><a href="#tracks">Kappaleet</a></li>
 						<li><a href="#about">Tietoja</a></li>
 						<li><a href="#get-it">Osta</a></li>
 						<li><a href="#artists">Muusikot</a></li>
-						<li><a class="external" href="index.html.en">In English</a></li>
+						<li class="lang"><a class="external" href="index.html.en">In English</a></li>
 					</ul>
 				</div>
 
@@ -430,16 +430,16 @@ color-6 yellow
 								Jussi Lehtipuu, basso (JL)
 							</li>
 							<li>
-								Mika Suihkonen, gamba Guy Derat 1989 (MS)
+								Mika Suihkonen, gamba <em>Guy Derat 1989</em> (MS)
 							</li>
 							<li>
-								Maija Lampela, gamba Wang Zhi Ming 2003 (ML)
+								Maija Lampela, gamba <em>Wang Zhi Ming 2003</em> (ML)
 							</li>
 							<li>
-								Eero Palviainen, arkkiluuttu Hendrik Hasenfuss 1994 (EP)
+								Eero Palviainen, arkkiluuttu <em>Hendrik Hasenfuss 1994</em> (EP)
 							</li>
 							<li>
-								Johannes Vesterinen, cembalo Jukka Ollikka 2007 &amp; urkupositiivi Kangasalan urkutehdas 1978 (JV). Viritysjärjestelmä: keskisävelviritys, 1/6 komma.
+								Johannes Vesterinen, cembalo <em>Jukka Ollikka 2007</em> &amp; urkupositiivi <em>Kangasalan urkutehdas 1978</em> (JV). Viritysjärjestelmä: keskisävelviritys, 1/6 komma.
 							</li>
 						</ul>
 					</div>
