@@ -520,6 +520,7 @@ audio
 .table .preview-track-button {
 	float:right;
 	margin-left: 5px;
+	width: 35px;
 }
 
 /*Media Queries*/
