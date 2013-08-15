@@ -17,6 +17,21 @@ $(document).ready(function(){
 		$(".vcenter").vAlign();
 	}
 
+    var audio = $("#preview-track");
+
+    $(".preview-track-button .btn").click(function(event) {
+        event.preventDefault();
+        var icon = $(this).find("i");
+
+        if (icon.attr("class") == "icon-play") {
+            audio.trigger("play");
+            icon.removeClass("icon-play").addClass("icon-pause");
+        } else {
+            audio.trigger("pause");
+            icon.removeClass("icon-pause").addClass("icon-play");
+        }
+    });
+
 	setHeight();
 
     function toggleLogo() {

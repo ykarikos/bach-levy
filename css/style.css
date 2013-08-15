@@ -510,6 +510,17 @@ margin: 0px;
 .instrument-names {
 	font-size: 12px;
 }
+/* Audio */
+
+audio
+{
+	display: none;
+}
+
+.table .preview-track-button {
+	float:right;
+	margin-left: 5px;
+}
 
 /*Media Queries*/
 @media (min-width: 768px) and (max-width: 979px) {

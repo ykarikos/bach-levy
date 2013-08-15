@@ -403,13 +403,24 @@ color-6 yellow
 								<tr>
 									<th>16</th>
 									<td>
+										<div class="preview-track-button">
+										<a class="btn btn-small" href="#">
+										  <i class="icon-play"></i></a>
+										<audio id="preview-track">
+ 											<source src="music/Jesu_bleibet_meine_freude_BWV_147.mp3" type="audio/mpeg">
+ 											<source src="music/Jesu_bleibet_meine_freude_BWV_147.ogg" type="audio/ogg">
+										</audio> 
+										</div>
+										<div>
 										<span class="track-title">
 											Jesu bleibet meine Freude
 										</span>
 										BWV 147<br>
-										(tutti)
+										(tutti)</div>
 									</td>
-									<td>2.48</td>
+									<td>
+										2.48
+									</td>
 								</tr>
 							</tbody>
 						</table>
