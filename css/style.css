@@ -33,17 +33,15 @@ h6 {
 	line-height: 1.3;
 	color: inherit;
 	font-family: 'Crimson Text', serif;
-	text-transform: uppercase;
 }
 
 h1,
 h2 {
 	line-height: 1.4;
-	letter-spacing: 3px;
 }
 
 h1 {
-	font-size: 44px;
+	font-size: 50px;
 }
 
 h2 {
@@ -52,17 +50,14 @@ h2 {
 
 h3 {
 	font-size: 28px;
-	letter-spacing: 2px;
 }
 
 h4 {
 	font-size: 22px;
-	letter-spacing: 1px;
 }
 
 h5 {
 	font-size: 18px;
-	letter-spacing: 1px;
 }
 
 h6 {
@@ -449,7 +444,6 @@ hr.grey {
 }
 .title h2{
 	font-weight: bold;
-	font-size: 2.2em;
 	margin: 0px;
 	text-align: center;
 }
