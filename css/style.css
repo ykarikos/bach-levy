@@ -504,6 +504,11 @@ margin: 0px;
 .instrument-names {
 	font-size: 12px;
 }
+
+.cover {
+	border: 1px solid #999;
+}
+
 /* Audio */
 
 audio
