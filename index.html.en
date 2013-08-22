@@ -580,7 +580,7 @@ color-6 yellow
 				<div class="row">
 					<div class="span6">
 						<p>
-							<img src="images/cover-small.jpg" alt="The CD Cover">
+							<img src="images/cover-small.jpg" alt="The CD Cover" class="cover">
 						</p>
 					</div>
 					<div class="span6">
